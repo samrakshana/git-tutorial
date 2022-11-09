@@ -1,1 +1,1 @@
-<?php echo "this is hospital page"; ?>
+<?php echo "this is hospital page created"; ?>
