@@ -1,4 +1,4 @@
 
 <?php
-echo "My first PHP script! sucssed";
+echo "My first PHP script!  its changes is ready......";
 ?>
