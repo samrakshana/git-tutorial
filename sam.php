@@ -1,4 +1,4 @@
 
 <?php
-echo "My first PHP script!  its changes is ready......";
+echo "My first PHP script written successfully on vs code!";
 ?>
